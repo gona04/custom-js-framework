@@ -1,4 +1,4 @@
-# FluxLite.js (formerly **Custom JS Framework**)
+# Custom JS Framework
 
 A tiny educational JavaScript micro-framework that demonstrates two core UI ideas:
 
